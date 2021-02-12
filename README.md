@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently enrolled in the Udacity Nanodegree Program.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at ally
+- 📫 You can reach me at a.darrington.da@gmail.com
 
 <!---
 adarrington/adarrington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
