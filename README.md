@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Ally.
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently enrolled in the Udacity Nanodegree Program.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects involving Data Wrangling, Data Cleaning, Data Visualizing
 - 📫 You can reach me at a.darrington.da@gmail.com
 
 <!---
