@@ -1,8 +1,7 @@
 - 👋 Hello, I’m Ally.
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently enrolled in the Udacity Nanodegree Program.
-- 💞️ I’m looking to collaborate on projects involving Data Wrangling, Data Cleaning, Data Visualizing
-- 📫 You can reach me at a.darrington.da@gmail.com
+- 👀 I’m interested in Cybersecurity - particuarily Penetration Testing
+- 🌱 I’m currently finshing up my degree in Information Security.
+- 📫 You can reach me at ally.darrington@gmail.com
 
 <!---
 adarrington/adarrington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
